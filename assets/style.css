@@ -1,0 +1,54 @@
+p{
+    line-height: 1.6;
+}
+
+hr{
+    /* background-color: lightblue; */
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(1, 18, 90, 0.75), rgba(0, 0, 0, 0));
+}
+
+.navbar-custom {
+    background-color: darkblue !important;
+}
+
+.content{
+    margin-top:20px;
+    /* background-color: lightgray */
+}
+
+.contenthead{
+    color: darkblue
+}
+
+.folio-image{
+    width: 380px;
+    height: auto;
+}
+
+.smoky-back{
+    background-color:rgba(53, 53, 53, 0.493)
+}
+
+.smoky-back:hover{
+    /* background-color: linear-gradient(to top, rgba(53, 53, 53, 0), rgba(53, 53, 53, 0.493)); */
+    background-color:rgba(53, 53, 53, 0);
+    transition: 0.3s;
+}
+
+.card-title{
+    padding-top:50%
+}
+
+#headshot{
+    width:200px;
+    height: auto;
+    margin: 0 20px 20px 0;
+}
+
+#page-footer{
+    background-color:darkblue;
+    color:white;
+    font-size: small
+}
