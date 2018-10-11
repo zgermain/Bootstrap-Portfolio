@@ -41,6 +41,10 @@ hr{
     padding-top:50%
 }
 
+#shortnav{
+    max-width:960px
+}
+
 #headshot{
     width:200px;
     height: auto;
