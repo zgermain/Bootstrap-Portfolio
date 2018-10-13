@@ -18,6 +18,10 @@ hr{
     /* background-color: lightgray */
 }
 
+body{
+    background-color:rgb(233, 238, 250)
+}
+
 .contenthead{
     color: darkblue
 }
@@ -41,14 +45,10 @@ hr{
     padding-top:50%
 }
 
-#shortnav{
-    max-width:960px
-}
-
 #headshot{
     width:200px;
     height: auto;
-    margin: 0 20px 20px 0;
+    margin: 0px 20px 20px 0px;
 }
 
 #page-footer{
